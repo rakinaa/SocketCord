@@ -1,21 +1,14 @@
 {
-  "name": "socketcord",
+  "name": "backend",
   "version": "1.0.0",
-  "description": "discord clone",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rakinaa/SocketCord.git"
-  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rakinaa/SocketCord/issues"
-  },
-  "homepage": "https://github.com/rakinaa/SocketCord#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
